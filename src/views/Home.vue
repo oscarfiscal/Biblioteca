@@ -1,15 +1,17 @@
+<!-- @format -->
+
 <template>
-  <hello-world />
+  <Biblioteca />
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+import Biblioteca from "@/components/Biblioteca";
 
-  export default {
-    name: 'Home',
+export default {
+  name: "Home",
 
-    components: {
-      HelloWorld,
-    },
-  }
+  components: {
+    Biblioteca,
+  },
+};
 </script>
