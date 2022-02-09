@@ -4,7 +4,7 @@
   <v-app>
     <v-app-bar app color="black" dark>
       <div class="d-flex align-center">
-      <v-toolbar-title>Biblioteca</v-toolbar-title>
+      <v-toolbar-title>Library</v-toolbar-title>
       </div>
 
       <v-spacer></v-spacer>
